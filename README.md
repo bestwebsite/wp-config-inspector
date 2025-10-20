@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bestwebsite/wp-config-inspector/master/assets/social/wp-config-inspector-banner.png" alt="WP Config Inspector — A Best Website Open-Source Project" />
+</p>
+
 # WP Config Inspector
 
 Inspect key WordPress constants and server environment details. Export results and use via WP‑CLI.
