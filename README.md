@@ -2,7 +2,10 @@
 
 Inspect key WordPress constants and server environment details. Export results and use via WP‑CLI.
 
-![GitHub release](https://img.shields.io/github/v/release/bestwebsite/wp-config-inspector) ![License](https://img.shields.io/badge/license-GPL--2.0%2B-blue)
+[![Latest release](https://img.shields.io/github/v/release/bestwebsite/wp-config-inspector)](../../releases)
+[![License: GPL-2.0+](https://img.shields.io/badge/license-GPL--2.0%2B-blue.svg)](LICENSE)
+[![WP-CLI](https://img.shields.io/badge/WP--CLI-supported-2ea44f.svg)](https://wp-cli.org/)
+[![Maintained by Best Website](https://img.shields.io/badge/maintainer-Best%20Website-3AA0FF)](https://bestwebsite.com)
 
 ## Features
 - Read-only dashboard showing core constants and environment info
