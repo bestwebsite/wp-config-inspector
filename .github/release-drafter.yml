@@ -1,0 +1,31 @@
+name-template: 'v$NEXT_PATCH_VERSION'
+tag-template: 'v$NEXT_PATCH_VERSION'
+
+change-template: '- $TITLE (#$NUMBER)'
+no-changes-template: 'No user-facing changes.'
+
+categories:
+  - title: '✨ Features'
+    labels:
+      - 'feat'
+      - 'feature'
+      - 'enhancement'
+  - title: '🐛 Fixes'
+    labels:
+      - 'fix'
+      - 'bug'
+  - title: '🧼 Maintenance'
+    labels:
+      - 'maintenance'
+      - 'chore'
+      - 'deps'
+      - 'docs'
+
+template: |
+  ## Changes in this release
+
+  $CHANGES
+
+  ---
+  Built and maintained by **Best Website** — https://bestwebsite.com  
+  Need help? support@bestwebsite.com
